@@ -1,4 +1,4 @@
-
+#!/bin/bash
 #linha de comando bash
 pip install django
 
