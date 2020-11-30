@@ -8,6 +8,5 @@ class Post(models.Model):
   created_at = models.DataField(auto_now_add=True)
   altered_at = models.DataField()
 
-def __str__(self):
-        return self.micro_organism
+
         
